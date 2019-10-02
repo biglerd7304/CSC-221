@@ -4,3 +4,5 @@ Adventure
 The CSC 221 text adventure project
 [ ] Build house data
 [ ] Text Parser
+
+6 perspectives/POV
